@@ -7,15 +7,15 @@ Output: - If the user clicks on the Clockwise button, print the number in a matr
 For e.g. If user input 3#4#2 
 
 When user click on clockwise button output should be like this.
-2   3	  4 	5
-11  12	13	6
-10	9	  8 	7
+2   3   4   5
+11  12  13  6
+10  9   8   7
 
 
 
 
 And when user click on clockwise button output should be like this.
 
-5 	4 	3 	2
-6 	13	12  11
-7	  8 	9	 10
+5   4   3   2
+6   13  12  11
+7   8   9   10
